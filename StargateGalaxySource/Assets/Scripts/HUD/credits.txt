@@ -1,0 +1,55 @@
+Producer
+-Peter Mitchell
+
+Development team
+- Peter Mitchell
+- Kane Stone
+- Karlos White
+- Phillip Lavender
+- Andrew Krix
+
+Designers
+- Peter Mitchell
+- Kane Stone
+- Karlos White
+- Phillip Lavender
+
+Artists
+- 3D: Andrew Krix
+- 2D: Karlos White
+- Explosions: Phillip Lavender
+- Projectiles: Peter Mitchell, Phillip Lavender, Karlos White
+- Planets: Kane Stone
+- Skyboxes: Kane Stone
+- Hyperspace In game: effect Peter Mitchell
+- Loading Screen: Andrew Krix
+
+Programmers
+- Lead: Peter Mitchell
+- Assistants: Kane Stone, Karlos White
+- Game: Peter Mitchell, Kane Stone
+- GUI: Karlos White
+
+Level Designer
+- Peter Mitchell: Kane Stone
+
+Sound Engineer
+- Lead: Kane Stone
+- Support: Karlos White
+
+Testers
+- Lead: Phill
+- Co Lead: Karlos White
+- Support: Kane Stone, Peter Mitchell
+
+External Assesst
+- Planets: Kane Stone
+- Sounds: Kane Stone, Karlos White
+
+User Guide 
+- Phillip Lavender
+
+Thankyou to those who provided additional assets used in the game. 
+-Jarad Kraft for use of music. 
+-Seth Pritchard, Craig Strapple, Hameed and others for planets
+Released under creative commons - http://creativecommons.org/licenses/by-nc-sa/3.0
