@@ -8,6 +8,8 @@ Note that the Unity project uses Unity version 3.3.0.
 
 StargateGalaxy_x86Build.zip contains a build of the game.
 
+- ([Youtube Demo](https://youtu.be/YiR4QwfVw_I))
+
 <img src="./images/image01.JPG">
 
 <img src="./images/image02.JPG">
